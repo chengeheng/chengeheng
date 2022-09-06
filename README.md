@@ -28,4 +28,4 @@
 <div > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chengeheng&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
 <div > <img src="https://visitor-badge.glitch.me/badge?page_id=chengeheng" /> </div>
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=chengeheng&theme=xcode" /> </div>
